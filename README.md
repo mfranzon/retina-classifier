@@ -16,7 +16,7 @@ For more details about IOL master images and why this could be usefull in clinic
  The proposed model is a small version of the Xception network, for further details have a look at this [Paper](https://arxiv.org/abs/1610.02357).
 
 
-The [notebook](./retina.ipynb) was run in the Google Colab's GPU runtime reducing dramatically the training time. 
+The [notebook](./retina_classifier.ipynb) was run in the Google Colab's GPU runtime reducing dramatically the training time. 
 
 Some results about training metrics:
 
